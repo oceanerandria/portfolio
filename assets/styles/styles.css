@@ -226,4 +226,8 @@ form {
         display: grid; 
         grid-template-columns: auto;
     }
+    .headerLabel{
+        display: block;
+    }
+   
 }
